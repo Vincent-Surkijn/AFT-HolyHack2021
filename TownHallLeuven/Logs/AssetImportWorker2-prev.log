@@ -1,0 +1,708 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1440; Version 1909; 64bit' Language: 'nl' Physical Memory: 8067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50347
+Successfully changed project path to: D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven
+D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     1979 MB
+    Driver:   26.21.14.4274
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.035439 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.977 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.295 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.31 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 26.197900 ms (FindLiveObjects: 0.377700 ms CreateObjectMapping: 0.164600 ms MarkObjects: 25.524900 ms  DeleteObjects: 0.128700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ARPlacement.cs
+  artifactKey: Guid(2e6c83ab232940d44a34cb4f1fe3955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPlacement.cs using Guid(2e6c83ab232940d44a34cb4f1fe3955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5708e70d26d09f91813723b4cb8c0b76') in 0.085855 seconds
+  Import took 0.090712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.672063 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42baae205c97e3337697759514652acd') in 0.017764 seconds
+  Import took 0.022837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.052162 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(a2323fce56d117e4995f239101a6d99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(a2323fce56d117e4995f239101a6d99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4f3521ffa34586e9de7f42b5a3edba') in 0.016037 seconds
+  Import took 0.020341 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.418 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1488 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1946.
+Total: 2.145700 ms (FindLiveObjects: 0.208700 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.735600 ms  DeleteObjects: 0.104000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.854859 seconds.
+  path: Assets/ARPlacement.cs
+  artifactKey: Guid(be9e5c4fdb4b226418ffd9d5983da8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPlacement.cs using Guid(be9e5c4fdb4b226418ffd9d5983da8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7846e065483ec1ac11c9f66556c30f00') in 0.005990 seconds
+  Import took 0.009679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078621 seconds.
+  path: Assets/ARPlacement.cs
+  artifactKey: Guid(be9e5c4fdb4b226418ffd9d5983da8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPlacement.cs using Guid(be9e5c4fdb4b226418ffd9d5983da8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7846e065483ec1ac11c9f66556c30f00') in 0.003877 seconds
+  Import took 0.008088 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1949.
+Total: 2.127300 ms (FindLiveObjects: 0.232700 ms CreateObjectMapping: 0.129100 ms MarkObjects: 1.665900 ms  DeleteObjects: 0.098600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002033 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 3.129300 ms (FindLiveObjects: 0.229600 ms CreateObjectMapping: 0.143900 ms MarkObjects: 2.627000 ms  DeleteObjects: 0.126700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.802401 seconds.
+  path: Assets/Scripts/ARPlacement.cs
+  artifactKey: Guid(2e6c83ab232940d44a34cb4f1fe3955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ARPlacement.cs using Guid(2e6c83ab232940d44a34cb4f1fe3955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5320237787e0c128d1d3bc8a0708113c') in 0.005715 seconds
+  Import took 0.008954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 623.852390 seconds.
+  path: Assets/Low Poly Medieval Buildings
+  artifactKey: Guid(d45d2d460812de84aa51b98b8ee3d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings using Guid(d45d2d460812de84aa51b98b8ee3d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe3edbac60bc3b63715dd95382ffe9d') in 0.025805 seconds
+  Import took 0.031323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.586682 seconds.
+  path: Assets/Low Poly Medieval Buildings/Show.unity
+  artifactKey: Guid(a8ccce01996355743a5130a17b1db0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Show.unity using Guid(a8ccce01996355743a5130a17b1db0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c103ed7b563cd7973e4dcfdd5d8027b0') in 0.074352 seconds
+  Import took 0.077325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.913157 seconds.
+  path: Assets/Low Poly Medieval Buildings/ShowSettings.lighting
+  artifactKey: Guid(f6cbb3de91a4b364abe1bc1e88c4d8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/ShowSettings.lighting using Guid(f6cbb3de91a4b364abe1bc1e88c4d8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '70f061fee2766377fe752430aa63f766') in 0.050580 seconds
+  Import took 0.117945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.755216 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models
+  artifactKey: Guid(21ecdfcecb4cd8745911d30d9bbb1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models using Guid(21ecdfcecb4cd8745911d30d9bbb1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f04834ef6255897fc2b5bf3c726219') in 0.013001 seconds
+  Import took 0.022020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046050 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V1.fbx
+  artifactKey: Guid(f6b423c83378b54479c6656020db687c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V1.fbx using Guid(f6b423c83378b54479c6656020db687c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5382e7dd89d79bc94d40f34da9af278b') in 0.588216 seconds
+  Import took 0.591493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V2.fbx
+  artifactKey: Guid(b4e79aa1998f6994c82a5c1d44143683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V2.fbx using Guid(b4e79aa1998f6994c82a5c1d44143683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c73ea514a9c33e95975f3717bc3bbf') in 0.037708 seconds
+  Import took 0.041609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V4.fbx
+  artifactKey: Guid(1cf860e8747a85543bfc6648cd7f7ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V4.fbx using Guid(1cf860e8747a85543bfc6648cd7f7ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c3af765332974f4eb4a0970e8b0233') in 0.033931 seconds
+  Import took 0.037759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V6.fbx
+  artifactKey: Guid(c0d2705fad2ad8c4684521ae1fee56c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V6.fbx using Guid(c0d2705fad2ad8c4684521ae1fee56c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e002572c64bd0faa06a318446e2615bd') in 0.035806 seconds
+  Import took 0.042245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V3.fbx
+  artifactKey: Guid(87702ca1c076b0c46af80a1023b85ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V3.fbx using Guid(87702ca1c076b0c46af80a1023b85ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204a89b26ac44a601ffe59759c291167') in 0.034547 seconds
+  Import took 0.039820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V5.fbx
+  artifactKey: Guid(b941106122b524244b1700afbbb3e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V5.fbx using Guid(b941106122b524244b1700afbbb3e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64ddd5dc01cfec505ffd568b0d7ba17') in 0.032099 seconds
+  Import took 0.035940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V3.fbx
+  artifactKey: Guid(87702ca1c076b0c46af80a1023b85ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V3.fbx using Guid(87702ca1c076b0c46af80a1023b85ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204a89b26ac44a601ffe59759c291167') in 0.025309 seconds
+  Import took 0.031591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V5.fbx
+  artifactKey: Guid(b941106122b524244b1700afbbb3e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Medieval_Building_LowPoly_V5.fbx using Guid(b941106122b524244b1700afbbb3e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64ddd5dc01cfec505ffd568b0d7ba17') in 0.029093 seconds
+  Import took 0.034479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.546069 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Materials
+  artifactKey: Guid(ad5b2aadcf3503d41b4c0e78e0764aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Materials using Guid(ad5b2aadcf3503d41b4c0e78e0764aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3932e4f2073ec0f3776e4ed623847a78') in 0.013041 seconds
+  Import took 0.018355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036023 seconds.
+  path: Assets/Low Poly Medieval Buildings/Models/Materials/No Name.mat
+  artifactKey: Guid(5a51934b2e57ad9488e441e1edd4791f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Models/Materials/No Name.mat using Guid(5a51934b2e57ad9488e441e1edd4791f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4387995e9928cd16bf5bde987ebdf0') in 0.517745 seconds
+  Import took 0.529573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.638985 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures
+  artifactKey: Guid(735d6d02063dad34c97a6746dd394cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures using Guid(735d6d02063dad34c97a6746dd394cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc45b71c51525651c807184aabd5d477') in 0.013237 seconds
+  Import took 0.017670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.125544 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_Albedo.png
+  artifactKey: Guid(db11254bbd1285f41b5f3e605dc6c3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_Albedo.png using Guid(db11254bbd1285f41b5f3e605dc6c3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e966562ce445e6bc2be38877d1b9fc') in 0.409198 seconds
+  Import took 0.426485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_Albedo.png
+  artifactKey: Guid(2a8fb6cb6f9820949ae1c7ff6d0e6f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_Albedo.png using Guid(2a8fb6cb6f9820949ae1c7ff6d0e6f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3609845e188adc1b231e476037d2b7') in 0.035836 seconds
+  Import took 0.040169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_MetallicSmoothness.png
+  artifactKey: Guid(cb3a05b8c8869df48b748475785f4188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_MetallicSmoothness.png using Guid(cb3a05b8c8869df48b748475785f4188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee5925f219b79b36e386d8b889e6d41') in 0.050421 seconds
+  Import took 0.054262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_MetallicSmoothness.png
+  artifactKey: Guid(d5fce109dcd790744830bb4bb5c224cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_MetallicSmoothness.png using Guid(d5fce109dcd790744830bb4bb5c224cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb14df060f4faf5123c8413dfc10b22b') in 0.033921 seconds
+  Import took 0.038998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_Normal.png
+  artifactKey: Guid(4344bccc1f2198048957da405cb10a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_Normal.png using Guid(4344bccc1f2198048957da405cb10a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e883e5477f8fa6fc3820c6d11a3450f7') in 0.071081 seconds
+  Import took 0.075918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_MetallicSmoothness.png
+  artifactKey: Guid(e0bc0d4513f634b48a1b3fe0cc65d695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_MetallicSmoothness.png using Guid(e0bc0d4513f634b48a1b3fe0cc65d695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6adfc4c4d19329d36f357f514ae1fb0') in 0.035720 seconds
+  Import took 0.039905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_MetallicSmoothness.png
+  artifactKey: Guid(7e699dcdbd26eb141a395db9d391bd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_MetallicSmoothness.png using Guid(7e699dcdbd26eb141a395db9d391bd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342f891d15779ec052ddee11b4c79d37') in 0.041564 seconds
+  Import took 0.067336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_MetallicSmoothness.png
+  artifactKey: Guid(98e13f56d7e98034a8ff0cea24b6673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_MetallicSmoothness.png using Guid(98e13f56d7e98034a8ff0cea24b6673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f89e178f680e1e6aae741d89ac97ba') in 0.035956 seconds
+  Import took 0.038738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_Albedo.png
+  artifactKey: Guid(d4730b67ba120d349afa38c9a6fbf320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_Albedo.png using Guid(d4730b67ba120d349afa38c9a6fbf320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4331650b9b92c394440f24a2d70ee8f9') in 0.033015 seconds
+  Import took 0.036021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_Normal.png
+  artifactKey: Guid(2a1ba6e3f865c604bb49924a8ee529ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V1_Normal.png using Guid(2a1ba6e3f865c604bb49924a8ee529ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7699d32247b251ff5f3eae32a18655d8') in 0.028284 seconds
+  Import took 0.032199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_Normal.png
+  artifactKey: Guid(1c3ea3bb63003344685aa1a5df344766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_Normal.png using Guid(1c3ea3bb63003344685aa1a5df344766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ec100ba0f1695ebd5ca065db0eca8a') in 0.031086 seconds
+  Import took 0.035000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_Albedo.png
+  artifactKey: Guid(c8139f11fcbd84f44926936222a7afd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V6_Albedo.png using Guid(c8139f11fcbd84f44926936222a7afd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9889d1c9e44edd2ac2b492d83a715c') in 0.029756 seconds
+  Import took 0.034217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_Normal.png
+  artifactKey: Guid(f8eb5588b8e54324ab161a53fa58a34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_Normal.png using Guid(f8eb5588b8e54324ab161a53fa58a34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458a9f59c09e5e44ade49ce63105d7be') in 0.049121 seconds
+  Import took 0.053922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_Normal.png
+  artifactKey: Guid(7ff5ac432f56a1545bfd04729a5a3169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_Normal.png using Guid(7ff5ac432f56a1545bfd04729a5a3169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6458ef84f641e670248119daf61c182') in 0.028282 seconds
+  Import took 0.033484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_Normal.png
+  artifactKey: Guid(a6c36d33b3b210741889f541e5b96fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V5_Normal.png using Guid(a6c36d33b3b210741889f541e5b96fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee1b196f3116937a9b77c71b8280d3c') in 0.032640 seconds
+  Import took 0.035717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_MetallicSmoothness.png
+  artifactKey: Guid(ca32802a6d62ed944a92cc331af79843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_MetallicSmoothness.png using Guid(ca32802a6d62ed944a92cc331af79843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28c349424e58060068aa7d1f0b68355') in 0.035365 seconds
+  Import took 0.038554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_Albedo.png
+  artifactKey: Guid(1cfb848aa60e59545a09c071ba5804ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V4_Albedo.png using Guid(1cfb848aa60e59545a09c071ba5804ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9de3c8369e5e90f75867864d3cccacc') in 0.033911 seconds
+  Import took 0.038148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_MetallicSmoothness.png
+  artifactKey: Guid(ca32802a6d62ed944a92cc331af79843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V2_MetallicSmoothness.png using Guid(ca32802a6d62ed944a92cc331af79843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28c349424e58060068aa7d1f0b68355') in 0.030112 seconds
+  Import took 0.036084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_Albedo.png
+  artifactKey: Guid(1ecd34934ba2f044ab90f22aec44ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Medieval Buildings/Textures/Medieval_Building_LowPoly_V3_Albedo.png using Guid(1ecd34934ba2f044ab90f22aec44ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c670b763e27368f583aac732d2d14736') in 0.032093 seconds
+  Import took 0.036319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.609280 seconds.
+  path: Assets/aim (1).png
+  artifactKey: Guid(25cb47b818fe6bb4b8031287ff2dd6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aim (1).png using Guid(25cb47b818fe6bb4b8031287ff2dd6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b12f33237cf535c1530adb725e20f2') in 0.033179 seconds
+  Import took 0.037714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.571466 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(ab206847e6d28cb4ca61c9c5bc60d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(ab206847e6d28cb4ca61c9c5bc60d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23134ca0cb25e0b1b9a975b212bcb713') in 0.003554 seconds
+  Import took 0.025223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.455351 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(3aecf431e83061a4dac5bccd68f4f802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(3aecf431e83061a4dac5bccd68f4f802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6a064238e59ed1887d6357315c10a8') in 0.005012 seconds
+  Import took 0.009358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.360527 seconds.
+  path: Assets/Materials/aim (1).png
+  artifactKey: Guid(25cb47b818fe6bb4b8031287ff2dd6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aim (1).png using Guid(25cb47b818fe6bb4b8031287ff2dd6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d654c3522143b7eeba6539806bee8b') in 0.030065 seconds
+  Import took 0.035093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.640532 seconds.
+  path: Assets/Materials/Indicator.mat
+  artifactKey: Guid(481ce665bb0705849928dcf8c7404d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Indicator.mat using Guid(481ce665bb0705849928dcf8c7404d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5e2e5da54b4937d617ea9fa9a13038') in 0.030038 seconds
+  Import took 0.034262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 488.540495 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(bccfcef0fe9b18d4bbb3bf626894dbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(bccfcef0fe9b18d4bbb3bf626894dbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682168e11a791d0b5c960765539a9b09') in 0.011074 seconds
+  Import took 0.015019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.572034 seconds.
+  path: Assets/Prefab/Medieval_Building_LowPoly_V1.prefab
+  artifactKey: Guid(4e7021feac7e8c9469ecb9a41d2de944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Medieval_Building_LowPoly_V1.prefab using Guid(4e7021feac7e8c9469ecb9a41d2de944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a248153049098ef6eebb1403447f82fe') in 0.026708 seconds
+  Import took 0.030762 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.3 MB.
+System memory in use after: 42.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 3.525200 ms (FindLiveObjects: 0.271300 ms CreateObjectMapping: 0.196100 ms MarkObjects: 2.932100 ms  DeleteObjects: 0.124100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.574 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1491 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2004.
+Total: 3.917000 ms (FindLiveObjects: 0.370000 ms CreateObjectMapping: 0.207600 ms MarkObjects: 3.033000 ms  DeleteObjects: 0.301000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2004.
+Total: 2.359000 ms (FindLiveObjects: 0.221700 ms CreateObjectMapping: 0.097100 ms MarkObjects: 1.942000 ms  DeleteObjects: 0.096600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Prepare
+Switching build target platform(13) subTarget(537395200) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 28.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2004.
+Total: 2.868400 ms (FindLiveObjects: 0.261200 ms CreateObjectMapping: 0.135900 ms MarkObjects: 2.363700 ms  DeleteObjects: 0.106300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  colorSpace: 1 -> 0
+  graphicsApiMask: 2048 -> 2099200
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1491 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 2.772100 ms (FindLiveObjects: 0.296500 ms CreateObjectMapping: 0.189100 ms MarkObjects: 2.193000 ms  DeleteObjects: 0.091800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.9 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 3.749300 ms (FindLiveObjects: 0.624300 ms CreateObjectMapping: 0.216400 ms MarkObjects: 2.825200 ms  DeleteObjects: 0.077200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1491 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2012.
+Total: 3.460800 ms (FindLiveObjects: 0.379100 ms CreateObjectMapping: 0.137200 ms MarkObjects: 2.750200 ms  DeleteObjects: 0.191400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 2111.135189 seconds.
+  path: Assets/XR
+  artifactKey: Guid(1a87f0b75e11d534ebd6519849ac73dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR using Guid(1a87f0b75e11d534ebd6519849ac73dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4637df912daafcf94a735ee3068226') in 0.150156 seconds
+  Import took 0.156102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(20e681de561032f4e88a16cafeb2958c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(20e681de561032f4e88a16cafeb2958c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec828322dd3672eb5002549f0eba156') in 0.071582 seconds
+  Import took 0.091209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.397222 seconds.
+  path: Assets/XR/Loaders
+  artifactKey: Guid(5b30e75adb426ae4cbb7d121e8d115f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders using Guid(5b30e75adb426ae4cbb7d121e8d115f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd027a7a77e0948b026d47312624d2433') in 0.013125 seconds
+  Import took 0.017084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038219 seconds.
+  path: Assets/XR/Loaders/AR Core Loader.asset
+  artifactKey: Guid(56e69e7c56f1a7446b2f7f2f4f6ae1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/AR Core Loader.asset using Guid(56e69e7c56f1a7446b2f7f2f4f6ae1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0bebed7f91b020c21c8c2869757960') in 0.011303 seconds
+  Import took 0.015125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.232923 seconds.
+  path: Assets/XR/Loaders/AR Kit Loader.asset
+  artifactKey: Guid(ceaf558421e892f47ab34792a29b4ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/AR Kit Loader.asset using Guid(ceaf558421e892f47ab34792a29b4ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5e58d1a6b14fe5cc46e3df5f712535') in 0.052820 seconds
+  Import took 0.058458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.585492 seconds.
+  path: Packages/com.unity.xr.arcore/Editor/Unity.XR.ARCore.Editor.asmdef
+  artifactKey: Guid(d76576b768da4171b007f21c44fabe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/Editor/Unity.XR.ARCore.Editor.asmdef using Guid(d76576b768da4171b007f21c44fabe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbe7ae213580ad0d862a8a8136f203f') in 0.010689 seconds
+  Import took 0.114294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.143767 seconds.
+  path: Packages/com.unity.xr.arcore/package.json
+  artifactKey: Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/package.json using Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85aafa664ab582f4c65698385808d3f') in 0.237319 seconds
+  Import took 0.241615 seconds .
+
