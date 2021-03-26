@@ -57,23 +57,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1586}
+      Script: {instanceID: 1590}
     - Class: 114
-      Script: {instanceID: 2308}
-    - Class: 114
-      Script: {instanceID: 2966}
+      Script: {instanceID: 2312}
     - Class: 114
       Script: {instanceID: 2970}
     - Class: 114
-      Script: {instanceID: 3326}
+      Script: {instanceID: 2974}
     - Class: 114
-      Script: {instanceID: 3374}
+      Script: {instanceID: 3330}
     - Class: 114
-      Script: {instanceID: 3604}
+      Script: {instanceID: 3378}
     - Class: 114
-      Script: {instanceID: 4158}
+      Script: {instanceID: 3608}
     - Class: 114
-      Script: {instanceID: 4262}
+      Script: {instanceID: 4162}
+    - Class: 114
+      Script: {instanceID: 4266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -798,4 +798,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven/Test1.2.apk
+  playerPath: /home/douwe/projects/FcTheProgrammersHolyHack/TownHallLeuven/test.apk
