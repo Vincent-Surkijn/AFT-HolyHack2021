@@ -20,7 +20,7 @@ public class TextChat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (ActText)
+        if (!ActText)
         {
             Canvas.SetActive(false);
         }
@@ -33,10 +33,16 @@ public class TextChat : MonoBehaviour
             txt.text = "Hey, you! I may only be 15 now, but one day I will be the king. Look at the statue on the townhall, that's me! I'm gonna be the greatest ruler!";
             txtName.text = "Leopold II of Belgium";
         }
+        else if (Character == 2)
+        {
+            txt.text = "My son is really arrogant and energetic, but he's a good boy. He's taking good care of me, since I'm very sick.";
+            txtName.text = "Louise Marie of Belgium";
+        }
         else
         {
             txt.text = "";
             txtName.text="";
         }
+
     }
 }
