@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - ARPlacement
+    - RefTracking
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.XR.ARCore.Editor.dll:
@@ -17,8 +18,11 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARRaycastManager
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
+    - UnityEngine.XR.ARFoundation.ARTrackedImageManager
     Unity.XR.ARKit.Editor.dll:
     - UnityEditor.XR.ARKit.ARKitSettings
+    Unity.XR.ARSubsystems.dll:
+    - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
@@ -28,6 +32,12 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/SampleScene.unity:
     - Class: 1
@@ -57,28 +67,56 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1590}
+      Script: {instanceID: 1600}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2006}
     - Class: 114
-      Script: {instanceID: 2970}
+      Script: {instanceID: 2302}
     - Class: 114
-      Script: {instanceID: 2974}
+      Script: {instanceID: 2330}
     - Class: 114
-      Script: {instanceID: 3330}
+      Script: {instanceID: 2402}
     - Class: 114
-      Script: {instanceID: 3378}
+      Script: {instanceID: 2556}
     - Class: 114
-      Script: {instanceID: 3608}
+      Script: {instanceID: 2736}
     - Class: 114
-      Script: {instanceID: 4162}
+      Script: {instanceID: 2988}
     - Class: 114
-      Script: {instanceID: 4266}
+      Script: {instanceID: 2992}
+    - Class: 114
+      Script: {instanceID: 3348}
+    - Class: 114
+      Script: {instanceID: 3396}
+    - Class: 114
+      Script: {instanceID: 3630}
+    - Class: 114
+      Script: {instanceID: 3930}
+    - Class: 114
+      Script: {instanceID: 4188}
+    - Class: 114
+      Script: {instanceID: 4242}
+    - Class: 114
+      Script: {instanceID: 4292}
+    - Class: 114
+      Script: {instanceID: 30434}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -795,7 +833,13 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 1db671263cb19765a6ffa2ec8cd23a50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RefTracking
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /home/douwe/projects/FcTheProgrammersHolyHack/TownHallLeuven/test.apk
+  playerPath: D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven/Tracked1.3.apk
