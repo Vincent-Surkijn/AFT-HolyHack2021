@@ -67,50 +67,48 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1600}
+      Script: {instanceID: 1586}
     - Class: 114
-      Script: {instanceID: 2006}
+      Script: {instanceID: 1992}
     - Class: 114
-      Script: {instanceID: 2302}
+      Script: {instanceID: 2288}
     - Class: 114
-      Script: {instanceID: 2330}
+      Script: {instanceID: 2316}
     - Class: 114
-      Script: {instanceID: 2402}
+      Script: {instanceID: 2388}
     - Class: 114
-      Script: {instanceID: 2556}
+      Script: {instanceID: 2542}
     - Class: 114
-      Script: {instanceID: 2736}
+      Script: {instanceID: 2722}
     - Class: 114
-      Script: {instanceID: 2988}
+      Script: {instanceID: 2974}
     - Class: 114
-      Script: {instanceID: 2992}
+      Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 3348}
+      Script: {instanceID: 3334}
     - Class: 114
-      Script: {instanceID: 3396}
+      Script: {instanceID: 3382}
     - Class: 114
-      Script: {instanceID: 3630}
+      Script: {instanceID: 3616}
     - Class: 114
-      Script: {instanceID: 3930}
+      Script: {instanceID: 3766}
     - Class: 114
-      Script: {instanceID: 4188}
+      Script: {instanceID: 3918}
     - Class: 114
-      Script: {instanceID: 4242}
+      Script: {instanceID: 4176}
     - Class: 114
-      Script: {instanceID: 4292}
+      Script: {instanceID: 4230}
     - Class: 114
-      Script: {instanceID: 30434}
+      Script: {instanceID: 4280}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
-      Script: {instanceID: 0}
-    - Class: 212
-      Script: {instanceID: 0}
-    - Class: 213
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -709,6 +707,12 @@ ScriptsOnlyBuild:
     className: ARHumanBody
   - hash:
       serializedVersion: 2
+      Hash: a39b77589ae3949f24ae7a9907b4cccd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RefTracking
+  - hash:
+      serializedVersion: 2
       Hash: ef705ae677d649d6c0ff3b4060963abd
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -833,13 +837,7 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 1db671263cb19765a6ffa2ec8cd23a50
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RefTracking
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven/Tracked1.3.apk
+  playerPath: D:/Unity/Projects/FcTheProgrammersHolyHack/TownHallLeuven/Tracked1.4.apk
